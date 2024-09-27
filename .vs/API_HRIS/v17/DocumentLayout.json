@@ -1,0 +1,2256 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\ODC-HRIS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|d:\\projects\\odc-hris\\api_hris\\manager\\dbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|solutionrelative:api_hris\\manager\\dbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|d:\\projects\\odc-hris\\mvc_hris\\views\\timelogs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|solutionrelative:mvc_hris\\views\\timelogs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|d:\\projects\\odc-hris\\mvc_hris\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|solutionrelative:mvc_hris\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|d:\\projects\\odc-hris\\mvc_hris\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|solutionrelative:mvc_hris\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|d:\\projects\\odc-hris\\mvc_hris\\views\\position\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|solutionrelative:mvc_hris\\views\\position\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|d:\\projects\\odc-hris\\mvc_hris\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|solutionrelative:mvc_hris\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|d:\\projects\\odc-hris\\mvc_hris\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|solutionrelative:mvc_hris\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|d:\\projects\\odc-hris\\mvc_hris\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|solutionrelative:mvc_hris\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|d:\\projects\\odc-hris\\mvc_hris\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|solutionrelative:mvc_hris\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|d:\\projects\\odc-hris\\api_hris\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|solutionrelative:api_hris\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|d:\\projects\\odc-hris\\mvc_hris\\views\\employee\\addemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|solutionrelative:mvc_hris\\views\\employee\\addemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|d:\\projects\\odc-hris\\mvc_hris\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|solutionrelative:mvc_hris\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|d:\\projects\\odc-hris\\api_hris\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|solutionrelative:api_hris\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|d:\\projects\\odc-hris\\api_hris\\manager\\dbmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|solutionrelative:api_hris\\manager\\dbmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|d:\\projects\\odc-hris\\mvc_hris\\manager\\dbconn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|solutionrelative:mvc_hris\\manager\\dbconn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|d:\\projects\\odc-hris\\mvc_hris\\manager\\dbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|solutionrelative:mvc_hris\\manager\\dbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|d:\\projects\\odc-hris\\mvc_hris\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|solutionrelative:mvc_hris\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|d:\\projects\\odc-hris\\mvc_hris\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|solutionrelative:mvc_hris\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|d:\\projects\\odc-hris\\api_hris\\models\\tblusersmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|solutionrelative:api_hris\\models\\tblusersmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|d:\\projects\\odc-hris\\api_hris\\models\\odc_hriscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|solutionrelative:api_hris\\models\\odc_hriscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|d:\\projects\\odc-hris\\mvc_hris\\wwwroot\\js\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|solutionrelative:mvc_hris\\wwwroot\\js\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|d:\\projects\\odc-hris\\mvc_hris\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|solutionrelative:mvc_hris\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|d:\\projects\\odc-hris\\api_hris\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|solutionrelative:api_hris\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|d:\\projects\\odc-hris\\mvc_hris\\manager\\dbmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|solutionrelative:mvc_hris\\manager\\dbmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|d:\\projects\\odc-hris\\mvc_hris\\controllers\\timelogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|solutionrelative:mvc_hris\\controllers\\timelogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|d:\\projects\\odc-hris\\api_hris\\controllers\\timelogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|solutionrelative:api_hris\\controllers\\timelogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|d:\\projects\\odc-hris\\api_hris\\models\\tbltimelog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|solutionrelative:api_hris\\models\\tbltimelog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lerjun\\AppData\\Local\\Temp\\.vsdbgsrc\\c09d8586b5209c4c2e2bccdd9ecbecb5838547098299787088a2a8f90ae3e503\\ActionMethodExecutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lerjun\\AppData\\Local\\Temp\\.vsdbgsrc\\7f98fdaac9d705a68d70434023c6fd56f977204d926dbc0c5754abd48c07be73\\DeveloperExceptionPageMiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lerjun\\AppData\\Local\\Temp\\.vsdbgsrc\\551b0bb7f8bcb3dd0b58d811f3166b300e629bc2212b8140090795abcd257737\\SwaggerMiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lerjun\\AppData\\Local\\Temp\\.vsdbgsrc\\7cbb3df1baa77b855e71bd17f1b1bb298ac93dbf91b0c3585897fab6b8ac09ce\\SwaggerUIMiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lerjun\\AppData\\Local\\Temp\\.vsdbgsrc\\a82db9b35af407afbb71bda58521448c20cbb8b3b6c92114a83c47f16d36d82c\\AuthenticationMiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lerjun\\AppData\\Local\\Temp\\.vsdbgsrc\\b7e667c32d2ea6b6ebefde7da475276284f32dec4c1ceb78fce4d3d2b314a743\\AuthorizationMiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lerjun\\AppData\\Local\\Temp\\.vsdbgsrc\\e2339ed665e2705f22599f89a14b74b782d476ea9e97eb47e4b166df3883175d\\AuthorizationMiddlewareResultHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lerjun\\AppData\\Local\\Temp\\.vsdbgsrc\\518fededb87958910c5bc6fa29ae471dfdb0d9433c2614ae865bf3d345b6ddeb\\EndpointMiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lerjun\\AppData\\Local\\Temp\\.vsdbgsrc\\21859c132d07f728e08c4c05f2840353e0149b97abfab2126ce002cb34542669\\ResourceInvoker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lerjun\\AppData\\Local\\Temp\\.vsdbgsrc\\f4afc3a88e25fb070f72b4a8058cd7e207766a7e6982c00e0931b159fe6558b6\\ControllerActionInvoker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lerjun\\AppData\\Local\\Temp\\.vsdbgsrc\\d41eb95d2e757567d9c6d7003c4625227377b4045ca6c236a9a22bf2a767e39b\\ValueTask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|d:\\projects\\odc-hris\\api_hris\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|solutionrelative:api_hris\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|d:\\projects\\odc-hris\\mvc_hris\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|solutionrelative:mvc_hris\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|d:\\projects\\odc-hris\\api_hris\\manager\\dbconn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|solutionrelative:api_hris\\manager\\dbconn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|d:\\projects\\odc-hris\\mvc_hris\\views\\shared\\_main.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|solutionrelative:mvc_hris\\views\\shared\\_main.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|d:\\projects\\odc-hris\\mvc_hris\\views\\shared\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|solutionrelative:mvc_hris\\views\\shared\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|d:\\projects\\odc-hris\\mvc_hris\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|solutionrelative:mvc_hris\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|d:\\projects\\odc-hris\\mvc_hris\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|solutionrelative:mvc_hris\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lerjun\\AppData\\Local\\Temp\\.vsdbgsrc\\1480cc79c4b804d4f2dff003acbf4584851da84262c5dcd28d05314bf5dd1d1f\\AsyncTaskMethodBuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lerjun\\AppData\\Local\\Temp\\.vsdbgsrc\\14be1e9775a2c42f6dae1f20059ab3b3b510ae0e6140dbc702c923d90d3b6050\\ExecutionContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lerjun\\AppData\\Local\\Temp\\.vsdbgsrc\\aedc23bd0842b16881a6a11aa140b925281eaa1b7e2cd8c35c1f6b74068226fd\\Task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|d:\\projects\\odc-hris\\api_hris\\controllers\\modulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|solutionrelative:api_hris\\controllers\\modulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|d:\\projects\\odc-hris\\mvc_hris\\models\\tblmodulesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|solutionrelative:mvc_hris\\models\\tblmodulesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|d:\\projects\\odc-hris\\api_hris\\models\\tblmodulesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|solutionrelative:api_hris\\models\\tblmodulesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|d:\\projects\\odc-hris\\api_hris\\models\\tblusertypeaccessmodules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|solutionrelative:api_hris\\models\\tblusertypeaccessmodules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|d:\\projects\\odc-hris\\mvc_hris\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|solutionrelative:mvc_hris\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|d:\\projects\\odc-hris\\api_hris\\migrations\\20240913212941_modules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|solutionrelative:api_hris\\migrations\\20240913212941_modules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|d:\\projects\\odc-hris\\mvc_hris\\views\\timelogs\\taskmodal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|solutionrelative:mvc_hris\\views\\timelogs\\taskmodal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|d:\\projects\\odc-hris\\mvc_hris\\controllers\\settingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|solutionrelative:mvc_hris\\controllers\\settingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|d:\\projects\\odc-hris\\mvc_hris\\models\\timelogsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|solutionrelative:mvc_hris\\models\\timelogsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|d:\\projects\\odc-hris\\api_hris\\applicationmodel\\timelogsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|solutionrelative:api_hris\\applicationmodel\\timelogsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|d:\\projects\\odc-hris\\mvc_hris\\models\\tbltimelog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|solutionrelative:mvc_hris\\models\\tbltimelog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|d:\\projects\\odc-hris\\mvc_hris\\models\\tbltaskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|solutionrelative:mvc_hris\\models\\tbltaskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|d:\\projects\\odc-hris\\api_hris\\models\\tbltaskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|solutionrelative:api_hris\\models\\tbltaskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ODC-HRIS\\API_HRIS\\Migrations\\20240912013436_InitialSchoolDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ODC-HRIS\\API_HRIS\\Migrations\\20240912013332_InitialSchoolDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ODC-HRIS\\API_HRIS\\Migrations\\20240912013227_InitialSchoolDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ODC-HRIS\\API_HRIS\\Migrations\\20240912013148_InitialSchoolDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|d:\\projects\\odc-hris\\api_hris\\migrations\\20240813054727_addpos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|solutionrelative:api_hris\\migrations\\20240813054727_addpos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|d:\\projects\\odc-hris\\api_hris\\migrations\\odc_hriscontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|solutionrelative:api_hris\\migrations\\odc_hriscontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|d:\\projects\\odc-hris\\api_hris\\api_hris.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|solutionrelative:api_hris\\api_hris.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|d:\\projects\\odc-hris\\mvc_hris\\wwwroot\\css\\variables.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|solutionrelative:mvc_hris\\wwwroot\\css\\variables.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|d:\\projects\\odc-hris\\mvc_hris\\wwwroot\\css\\variable.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|solutionrelative:mvc_hris\\wwwroot\\css\\variable.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|d:\\projects\\odc-hris\\mvc_hris\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|solutionrelative:mvc_hris\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|d:\\projects\\odc-hris\\mvc_hris\\wwwroot\\css\\body.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|solutionrelative:mvc_hris\\wwwroot\\css\\body.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|d:\\projects\\odc-hris\\mvc_hris\\wwwroot\\css\\modal_2.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|solutionrelative:mvc_hris\\wwwroot\\css\\modal_2.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|d:\\projects\\odc-hris\\mvc_hris\\controllers\\usertypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|solutionrelative:mvc_hris\\controllers\\usertypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lerjun\\AppData\\Local\\Temp\\.vsdbgsrc\\be23523e2745f4009096bc5570f0f0e3421d48f739d7afc3e4a4237e1d98b0b7\\Task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lerjun\\AppData\\Local\\Temp\\.vsdbgsrc\\470d3084ccff01cbfffdb653cdede89467eb744ee0ba266252d0a21e12cbf24b\\Monitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lerjun\\AppData\\Local\\Temp\\.vsdbgsrc\\c5a97e4e2bf154308543b519e39df69d65a6673c44714367671dc8a2d4ce1213\\ManualResetEventSlim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lerjun\\AppData\\Local\\Temp\\.vsdbgsrc\\30a718626809fa918d54d5c4e66b6c037dbc6037bbf57453e35d5b75a4c80102\\TaskAwaiter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|d:\\projects\\odc-hris\\api_hris\\models\\getalluserdetailsresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|solutionrelative:api_hris\\models\\getalluserdetailsresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|d:\\projects\\odc-hris\\api_hris\\controllers\\payrolltypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|solutionrelative:api_hris\\controllers\\payrolltypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|d:\\projects\\odc-hris\\api_hris\\controllers\\usertypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|solutionrelative:api_hris\\controllers\\usertypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|d:\\projects\\odc-hris\\mvc_hris\\controllers\\positioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|solutionrelative:mvc_hris\\controllers\\positioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|d:\\projects\\odc-hris\\mvc_hris\\wwwroot\\css\\dashboard.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|solutionrelative:mvc_hris\\wwwroot\\css\\dashboard.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|d:\\projects\\odc-hris\\mvc_hris\\models\\tblusersmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|solutionrelative:mvc_hris\\models\\tblusersmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|d:\\projects\\odc-hris\\api_hris\\controllers\\positioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|solutionrelative:api_hris\\controllers\\positioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|d:\\projects\\odc-hris\\api_hris\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|solutionrelative:api_hris\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|d:\\projects\\odc-hris\\api_hris\\applicationmodel\\filteremployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|solutionrelative:api_hris\\applicationmodel\\filteremployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|d:\\projects\\odc-hris\\mvc_hris\\manager\\queryvalueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|solutionrelative:mvc_hris\\manager\\queryvalueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|d:\\projects\\odc-hris\\api_hris\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|solutionrelative:api_hris\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|d:\\projects\\odc-hris\\api_hris\\basicauthenticationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|solutionrelative:api_hris\\basicauthenticationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|d:\\projects\\odc-hris\\mvc_hris\\controllers\\payrollcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|solutionrelative:mvc_hris\\controllers\\payrollcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|d:\\projects\\odc-hris\\mvc_hris\\controllers\\salarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|solutionrelative:mvc_hris\\controllers\\salarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|d:\\projects\\odc-hris\\mvc_hris\\controllers\\approvalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|solutionrelative:mvc_hris\\controllers\\approvalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|d:\\projects\\odc-hris\\api_hris\\controllers\\salarytypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|solutionrelative:api_hris\\controllers\\salarytypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|d:\\projects\\odc-hris\\api_hris\\models\\tblpayrolltype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|solutionrelative:api_hris\\models\\tblpayrolltype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|d:\\projects\\odc-hris\\mvc_hris\\wwwroot\\css\\sidebar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|solutionrelative:mvc_hris\\wwwroot\\css\\sidebar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|d:\\projects\\odc-hris\\mvc_hris\\wwwroot\\css\\table.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|solutionrelative:mvc_hris\\wwwroot\\css\\table.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|d:\\projects\\odc-hris\\mvc_hris\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|solutionrelative:mvc_hris\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|d:\\projects\\odc-hris\\mvc_hris\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|solutionrelative:mvc_hris\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|d:\\projects\\odc-hris\\api_hris\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|solutionrelative:api_hris\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|d:\\projects\\odc-hris\\api_hris\\applicationmodel\\departmentpaginationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|solutionrelative:api_hris\\applicationmodel\\departmentpaginationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|d:\\projects\\odc-hris\\mvc_hris\\models\\idfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|solutionrelative:mvc_hris\\models\\idfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|d:\\projects\\odc-hris\\api_hris\\models\\idfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|solutionrelative:api_hris\\models\\idfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|d:\\projects\\odc-hris\\api_hris\\applicationmodel\\filterusertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|solutionrelative:api_hris\\applicationmodel\\filterusertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|d:\\projects\\odc-hris\\api_hris\\models\\tbladdressinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|solutionrelative:api_hris\\models\\tbladdressinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|d:\\projects\\odc-hris\\api_hris\\models\\iodc_hriscontextprocedures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|solutionrelative:api_hris\\models\\iodc_hriscontextprocedures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|d:\\projects\\odc-hris\\api_hris\\controllers\\audittrailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|solutionrelative:api_hris\\controllers\\audittrailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|d:\\projects\\odc-hris\\api_hris\\models\\dbcontextextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|solutionrelative:api_hris\\models\\dbcontextextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|d:\\projects\\odc-hris\\api_hris\\applicationmodel\\usertypepaginationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|solutionrelative:api_hris\\applicationmodel\\usertypepaginationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|d:\\projects\\odc-hris\\mvc_hris\\models\\usertypepaginationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|solutionrelative:mvc_hris\\models\\usertypepaginationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|d:\\projects\\odc-hris\\api_hris\\applicationmodel\\filterdepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|solutionrelative:api_hris\\applicationmodel\\filterdepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|d:\\projects\\odc-hris\\mvc_hris\\models\\positionpaginationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|solutionrelative:mvc_hris\\models\\positionpaginationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|d:\\projects\\odc-hris\\api_hris\\applicationmodel\\filterposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|solutionrelative:api_hris\\applicationmodel\\filterposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|d:\\projects\\odc-hris\\api_hris\\applicationmodel\\employeepaginationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|solutionrelative:api_hris\\applicationmodel\\employeepaginationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|d:\\projects\\odc-hris\\api_hris\\applicationmodel\\positionpaginationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|solutionrelative:api_hris\\applicationmodel\\positionpaginationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|d:\\projects\\odc-hris\\mvc_hris\\models\\paginationusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|solutionrelative:mvc_hris\\models\\paginationusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|d:\\projects\\odc-hris\\api_hris\\models\\tblaudittrail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|solutionrelative:api_hris\\models\\tblaudittrail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|d:\\projects\\odc-hris\\api_hris\\applicationmodel\\deletionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|solutionrelative:api_hris\\applicationmodel\\deletionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|d:\\projects\\odc-hris\\api_hris\\applicationmodel\\restorationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|solutionrelative:api_hris\\applicationmodel\\restorationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|d:\\projects\\odc-hris\\mvc_hris\\models\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|solutionrelative:mvc_hris\\models\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|d:\\projects\\odc-hris\\mvc_hris\\services\\apiglobalmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|solutionrelative:mvc_hris\\services\\apiglobalmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|d:\\projects\\odc-hris\\api_hris\\models\\odc_hriscontextprocedures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|solutionrelative:api_hris\\models\\odc_hriscontextprocedures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|d:\\projects\\odc-hris\\api_hris\\statusmodel\\logincredentials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|solutionrelative:api_hris\\statusmodel\\logincredentials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|d:\\projects\\odc-hris\\api_hris\\statusmodel\\statusreturns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|solutionrelative:api_hris\\statusmodel\\statusreturns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|d:\\projects\\odc-hris\\api_hris\\statusmodel\\tblusersmodel_list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|solutionrelative:api_hris\\statusmodel\\tblusersmodel_list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|d:\\projects\\odc-hris\\mvc_hris\\views\\approval\\timelogsapproval.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|solutionrelative:mvc_hris\\views\\approval\\timelogsapproval.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|d:\\projects\\odc-hris\\mvc_hris\\views\\approval\\registrationapproval.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|solutionrelative:mvc_hris\\views\\approval\\registrationapproval.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|d:\\projects\\odc-hris\\mvc_hris\\views\\settings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|solutionrelative:mvc_hris\\views\\settings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|d:\\projects\\odc-hris\\mvc_hris\\views\\approval\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|solutionrelative:mvc_hris\\views\\approval\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|d:\\projects\\odc-hris\\mvc_hris\\views\\approval\\taskapproval.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|solutionrelative:mvc_hris\\views\\approval\\taskapproval.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|d:\\projects\\odc-hris\\mvc_hris\\views\\payroll\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|solutionrelative:mvc_hris\\views\\payroll\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|d:\\projects\\odc-hris\\mvc_hris\\views\\salary\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|solutionrelative:mvc_hris\\views\\salary\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|d:\\projects\\odc-hris\\mvc_hris\\mvc_hris.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|solutionrelative:mvc_hris\\mvc_hris.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|d:\\projects\\odc-hris\\mvc_hris\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9897C201-AA16-4DBD-A059-81B2D35C9A5F}|MVC_HRIS\\MVC_HRIS.csproj|solutionrelative:mvc_hris\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|d:\\projects\\odc-hris\\api_hris\\api_hris.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|solutionrelative:api_hris\\api_hris.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|d:\\projects\\odc-hris\\api_hris\\manager\\jwtauthenticationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|solutionrelative:api_hris\\manager\\jwtauthenticationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|d:\\projects\\odc-hris\\api_hris\\manager\\cryptography.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|solutionrelative:api_hris\\manager\\cryptography.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|d:\\projects\\odc-hris\\api_hris\\basicauthenticationoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|solutionrelative:api_hris\\basicauthenticationoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|d:\\projects\\odc-hris\\api_hris\\migrations\\20240912013657_initialschooldb1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|solutionrelative:api_hris\\migrations\\20240912013657_initialschooldb1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|d:\\projects\\odc-hris\\api_hris\\migrations\\20240912013502_initialschooldb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|solutionrelative:api_hris\\migrations\\20240912013502_initialschooldb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|d:\\projects\\odc-hris\\api_hris\\migrations\\20240913213231_modulesdtatype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9C614A1-5C83-40F3-BE2B-54E48F6E4C12}|API_HRIS\\API_HRIS.csproj|solutionrelative:api_hris\\migrations\\20240913213231_modulesdtatype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LogInController.cs",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\Controllers\\LogInController.cs",
+              "RelativeDocumentMoniker": "MVC_HRIS\\Controllers\\LogInController.cs",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\Controllers\\LogInController.cs",
+              "RelativeToolTip": "MVC_HRIS\\Controllers\\LogInController.cs",
+              "ViewState": "AQIAAHMAAAAAAAAAAAAuwIkAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T12:55:25.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVC_HRIS\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVC_HRIS\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAALYAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T15:13:22.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC_HRIS\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "MVC_HRIS\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AQIAAKgBAAAAAAAAAAAAAKwBAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-27T04:16:47.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\Views\\Position\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC_HRIS\\Views\\Position\\Index.cshtml",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\Views\\Position\\Index.cshtml",
+              "RelativeToolTip": "MVC_HRIS\\Views\\Position\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-03T05:55:51.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\Views\\Department\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC_HRIS\\Views\\Department\\Index.cshtml",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\Views\\Department\\Index.cshtml",
+              "RelativeToolTip": "MVC_HRIS\\Views\\Department\\Index.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAA4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T17:41:35.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\Views\\TimeLogs\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC_HRIS\\Views\\TimeLogs\\Index.cshtml",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\Views\\TimeLogs\\Index.cshtml",
+              "RelativeToolTip": "MVC_HRIS\\Views\\TimeLogs\\Index.cshtml",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAAAFUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-03T10:06:28.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DbManager.cs",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\API_HRIS\\Manager\\DbManager.cs",
+              "RelativeDocumentMoniker": "API_HRIS\\Manager\\DbManager.cs",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\API_HRIS\\Manager\\DbManager.cs",
+              "RelativeToolTip": "API_HRIS\\Manager\\DbManager.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAA5wBUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T04:56:33.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_SideBar.cshtml",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\Views\\Shared\\_SideBar.cshtml",
+              "RelativeDocumentMoniker": "MVC_HRIS\\Views\\Shared\\_SideBar.cshtml",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\Views\\Shared\\_SideBar.cshtml",
+              "RelativeToolTip": "MVC_HRIS\\Views\\Shared\\_SideBar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-16T18:58:44.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "MVC_HRIS\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "MVC_HRIS\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAJMAAAAAAAAAAAAwwOAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T04:54:13.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\API_HRIS\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "API_HRIS\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\API_HRIS\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "API_HRIS\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAJsAAAAAAAAAAAAuwLAAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T06:48:44.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddEmployee.cshtml",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\Views\\Employee\\AddEmployee.cshtml",
+              "RelativeDocumentMoniker": "MVC_HRIS\\Views\\Employee\\AddEmployee.cshtml",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\Views\\Employee\\AddEmployee.cshtml",
+              "RelativeToolTip": "MVC_HRIS\\Views\\Employee\\AddEmployee.cshtml",
+              "ViewState": "AQIAAIQBAAAAAAAAAAAuwKEBAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T15:17:29.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "MVC_HRIS\\Controllers\\DepartmentController.cs",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "MVC_HRIS\\Controllers\\DepartmentController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAADwv0AAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T17:41:18.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\API_HRIS\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "API_HRIS\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\API_HRIS\\Controllers\\UserController.cs",
+              "RelativeToolTip": "API_HRIS\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAA0wC4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T20:11:28.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DBMethods.cs",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\API_HRIS\\Manager\\DBMethods.cs",
+              "RelativeDocumentMoniker": "API_HRIS\\Manager\\DBMethods.cs",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\API_HRIS\\Manager\\DBMethods.cs",
+              "RelativeToolTip": "API_HRIS\\Manager\\DBMethods.cs",
+              "ViewState": "AQIAAJkAAAAAAAAAAAAmwKkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T04:56:42.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DBConn.cs",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\Manager\\DBConn.cs",
+              "RelativeDocumentMoniker": "MVC_HRIS\\Manager\\DBConn.cs",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\Manager\\DBConn.cs",
+              "RelativeToolTip": "MVC_HRIS\\Manager\\DBConn.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAwwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T20:27:26.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DbManager.cs",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\Manager\\DbManager.cs",
+              "RelativeDocumentMoniker": "MVC_HRIS\\Manager\\DbManager.cs",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\Manager\\DbManager.cs",
+              "RelativeToolTip": "MVC_HRIS\\Manager\\DbManager.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowCcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T12:57:46.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\Program.cs",
+              "RelativeDocumentMoniker": "MVC_HRIS\\Program.cs",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\Program.cs",
+              "RelativeToolTip": "MVC_HRIS\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T12:47:19.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\appsettings.json",
+              "RelativeDocumentMoniker": "MVC_HRIS\\appsettings.json",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\appsettings.json",
+              "RelativeToolTip": "MVC_HRIS\\appsettings.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-02T12:47:18.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ODC_HRISContext.cs",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\API_HRIS\\Models\\ODC_HRISContext.cs",
+              "RelativeDocumentMoniker": "API_HRIS\\Models\\ODC_HRISContext.cs",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\API_HRIS\\Models\\ODC_HRISContext.cs",
+              "RelativeToolTip": "API_HRIS\\Models\\ODC_HRISContext.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAYwCUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T06:50:25.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TblUsersModel.cs",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\API_HRIS\\Models\\TblUsersModel.cs",
+              "RelativeDocumentMoniker": "API_HRIS\\Models\\TblUsersModel.cs",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\API_HRIS\\Models\\TblUsersModel.cs",
+              "RelativeToolTip": "API_HRIS\\Models\\TblUsersModel.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAA4wAcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T11:22:29.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "app.js",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\wwwroot\\js\\app.js",
+              "RelativeDocumentMoniker": "MVC_HRIS\\wwwroot\\js\\app.js",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\wwwroot\\js\\app.js",
+              "RelativeToolTip": "MVC_HRIS\\wwwroot\\js\\app.js",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAIwA0BAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-15T15:36:24.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "MVC_HRIS\\Controllers\\DashboardController.cs",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "MVC_HRIS\\Controllers\\DashboardController.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAcwDMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T20:38:05.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\API_HRIS\\appsettings.json",
+              "RelativeDocumentMoniker": "API_HRIS\\appsettings.json",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\API_HRIS\\appsettings.json",
+              "RelativeToolTip": "API_HRIS\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-02T05:00:39.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DBMethods.cs",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\Manager\\DBMethods.cs",
+              "RelativeDocumentMoniker": "MVC_HRIS\\Manager\\DBMethods.cs",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\Manager\\DBMethods.cs",
+              "RelativeToolTip": "MVC_HRIS\\Manager\\DBMethods.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T12:57:37.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TimeLogsController.cs",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\Controllers\\TimeLogsController.cs",
+              "RelativeDocumentMoniker": "MVC_HRIS\\Controllers\\TimeLogsController.cs",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\Controllers\\TimeLogsController.cs",
+              "RelativeToolTip": "MVC_HRIS\\Controllers\\TimeLogsController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAiwDUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T10:06:16.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "TblTimeLog.cs",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\API_HRIS\\Models\\TblTimeLog.cs",
+              "RelativeDocumentMoniker": "API_HRIS\\Models\\TblTimeLog.cs",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\API_HRIS\\Models\\TblTimeLog.cs",
+              "RelativeToolTip": "API_HRIS\\Models\\TblTimeLog.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAD4vxYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T15:39:03.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ActionMethodExecutor.cs",
+              "DocumentMoniker": "C:\\Users\\Lerjun\\AppData\\Local\\Temp\\.vsdbgsrc\\c09d8586b5209c4c2e2bccdd9ecbecb5838547098299787088a2a8f90ae3e503\\ActionMethodExecutor.cs",
+              "ToolTip": "C:\\Users\\Lerjun\\AppData\\Local\\Temp\\.vsdbgsrc\\c09d8586b5209c4c2e2bccdd9ecbecb5838547098299787088a2a8f90ae3e503\\ActionMethodExecutor.cs [Read Only]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T15:25:01.528Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TimeLogsController.cs",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\API_HRIS\\Controllers\\TimeLogsController.cs",
+              "RelativeDocumentMoniker": "API_HRIS\\Controllers\\TimeLogsController.cs",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\API_HRIS\\Controllers\\TimeLogsController.cs",
+              "RelativeToolTip": "API_HRIS\\Controllers\\TimeLogsController.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAIwFYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T20:51:37.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DeveloperExceptionPageMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Lerjun\\AppData\\Local\\Temp\\.vsdbgsrc\\7f98fdaac9d705a68d70434023c6fd56f977204d926dbc0c5754abd48c07be73\\DeveloperExceptionPageMiddleware.cs",
+              "ToolTip": "C:\\Users\\Lerjun\\AppData\\Local\\Temp\\.vsdbgsrc\\7f98fdaac9d705a68d70434023c6fd56f977204d926dbc0c5754abd48c07be73\\DeveloperExceptionPageMiddleware.cs [Read Only]",
+              "ViewState": "AQIAADcAAAAAAAAAAAD4v0kAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T02:35:35.52Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "SwaggerMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Lerjun\\AppData\\Local\\Temp\\.vsdbgsrc\\551b0bb7f8bcb3dd0b58d811f3166b300e629bc2212b8140090795abcd257737\\SwaggerMiddleware.cs",
+              "ToolTip": "C:\\Users\\Lerjun\\AppData\\Local\\Temp\\.vsdbgsrc\\551b0bb7f8bcb3dd0b58d811f3166b300e629bc2212b8140090795abcd257737\\SwaggerMiddleware.cs [Read Only]",
+              "ViewState": "AQIAAA4AAAAAAAAAAAD4vyAAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T02:35:34.945Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "SwaggerUIMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Lerjun\\AppData\\Local\\Temp\\.vsdbgsrc\\7cbb3df1baa77b855e71bd17f1b1bb298ac93dbf91b0c3585897fab6b8ac09ce\\SwaggerUIMiddleware.cs",
+              "ToolTip": "C:\\Users\\Lerjun\\AppData\\Local\\Temp\\.vsdbgsrc\\7cbb3df1baa77b855e71bd17f1b1bb298ac93dbf91b0c3585897fab6b8ac09ce\\SwaggerUIMiddleware.cs [Read Only]",
+              "ViewState": "AQIAACAAAAAAAAAAAAD4vzIAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T02:35:34.302Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AuthenticationMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Lerjun\\AppData\\Local\\Temp\\.vsdbgsrc\\a82db9b35af407afbb71bda58521448c20cbb8b3b6c92114a83c47f16d36d82c\\AuthenticationMiddleware.cs",
+              "ToolTip": "C:\\Users\\Lerjun\\AppData\\Local\\Temp\\.vsdbgsrc\\a82db9b35af407afbb71bda58521448c20cbb8b3b6c92114a83c47f16d36d82c\\AuthenticationMiddleware.cs [Read Only]",
+              "ViewState": "AQIAAC4AAAAAAAAAAAD4v0AAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T02:35:33.735Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AuthorizationMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Lerjun\\AppData\\Local\\Temp\\.vsdbgsrc\\b7e667c32d2ea6b6ebefde7da475276284f32dec4c1ceb78fce4d3d2b314a743\\AuthorizationMiddleware.cs",
+              "ToolTip": "C:\\Users\\Lerjun\\AppData\\Local\\Temp\\.vsdbgsrc\\b7e667c32d2ea6b6ebefde7da475276284f32dec4c1ceb78fce4d3d2b314a743\\AuthorizationMiddleware.cs [Read Only]",
+              "ViewState": "AQIAADUAAAAAAAAAAAD4v0cAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T02:35:33.151Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AuthorizationMiddlewareResultHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Lerjun\\AppData\\Local\\Temp\\.vsdbgsrc\\e2339ed665e2705f22599f89a14b74b782d476ea9e97eb47e4b166df3883175d\\AuthorizationMiddlewareResultHandler.cs",
+              "ToolTip": "C:\\Users\\Lerjun\\AppData\\Local\\Temp\\.vsdbgsrc\\e2339ed665e2705f22599f89a14b74b782d476ea9e97eb47e4b166df3883175d\\AuthorizationMiddlewareResultHandler.cs [Read Only]",
+              "ViewState": "AQIAABYAAAAAAAAAAAD4vygAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T02:35:32.489Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "EndpointMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Lerjun\\AppData\\Local\\Temp\\.vsdbgsrc\\518fededb87958910c5bc6fa29ae471dfdb0d9433c2614ae865bf3d345b6ddeb\\EndpointMiddleware.cs",
+              "ToolTip": "C:\\Users\\Lerjun\\AppData\\Local\\Temp\\.vsdbgsrc\\518fededb87958910c5bc6fa29ae471dfdb0d9433c2614ae865bf3d345b6ddeb\\EndpointMiddleware.cs [Read Only]",
+              "ViewState": "AQIAAFUAAAAAAAAAAAD4v2cAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T02:35:31.87Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ResourceInvoker.cs",
+              "DocumentMoniker": "C:\\Users\\Lerjun\\AppData\\Local\\Temp\\.vsdbgsrc\\21859c132d07f728e08c4c05f2840353e0149b97abfab2126ce002cb34542669\\ResourceInvoker.cs",
+              "ToolTip": "C:\\Users\\Lerjun\\AppData\\Local\\Temp\\.vsdbgsrc\\21859c132d07f728e08c4c05f2840353e0149b97abfab2126ce002cb34542669\\ResourceInvoker.cs [Read Only]",
+              "ViewState": "AQIAALUAAAAAAAAAAAD4v8sAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T02:35:29.838Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ControllerActionInvoker.cs",
+              "DocumentMoniker": "C:\\Users\\Lerjun\\AppData\\Local\\Temp\\.vsdbgsrc\\f4afc3a88e25fb070f72b4a8058cd7e207766a7e6982c00e0931b159fe6558b6\\ControllerActionInvoker.cs",
+              "ToolTip": "C:\\Users\\Lerjun\\AppData\\Local\\Temp\\.vsdbgsrc\\f4afc3a88e25fb070f72b4a8058cd7e207766a7e6982c00e0931b159fe6558b6\\ControllerActionInvoker.cs [Read Only]",
+              "ViewState": "AQIAAHABAAAAAAAAAAD4v4IBAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T12:09:49.594Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ValueTask.cs",
+              "DocumentMoniker": "C:\\Users\\Lerjun\\AppData\\Local\\Temp\\.vsdbgsrc\\d41eb95d2e757567d9c6d7003c4625227377b4045ca6c236a9a22bf2a767e39b\\ValueTask.cs",
+              "ToolTip": "C:\\Users\\Lerjun\\AppData\\Local\\Temp\\.vsdbgsrc\\d41eb95d2e757567d9c6d7003c4625227377b4045ca6c236a9a22bf2a767e39b\\ValueTask.cs [Read Only]",
+              "ViewState": "AQIAAMUBAAAAAAAAAAD4v9cBAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T02:35:28.66Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "DBConn.cs",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\API_HRIS\\Manager\\DBConn.cs",
+              "RelativeDocumentMoniker": "API_HRIS\\Manager\\DBConn.cs",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\API_HRIS\\Manager\\DBConn.cs",
+              "RelativeToolTip": "API_HRIS\\Manager\\DBConn.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T04:56:16.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\API_HRIS\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "API_HRIS\\Controllers\\TaskController.cs",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\API_HRIS\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "API_HRIS\\Controllers\\TaskController.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAywCQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T20:37:50.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "MVC_HRIS\\Controllers\\TaskController.cs",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "MVC_HRIS\\Controllers\\TaskController.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAD4AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T20:39:05.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC_HRIS\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "MVC_HRIS\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T20:41:33.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "AsyncTaskMethodBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\Lerjun\\AppData\\Local\\Temp\\.vsdbgsrc\\1480cc79c4b804d4f2dff003acbf4584851da84262c5dcd28d05314bf5dd1d1f\\AsyncTaskMethodBuilder.cs",
+              "ToolTip": "C:\\Users\\Lerjun\\AppData\\Local\\Temp\\.vsdbgsrc\\1480cc79c4b804d4f2dff003acbf4584851da84262c5dcd28d05314bf5dd1d1f\\AsyncTaskMethodBuilder.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAD4v2oAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T22:27:50.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "_Main.cshtml",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\Views\\Shared\\_Main.cshtml",
+              "RelativeDocumentMoniker": "MVC_HRIS\\Views\\Shared\\_Main.cshtml",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\Views\\Shared\\_Main.cshtml",
+              "RelativeToolTip": "MVC_HRIS\\Views\\Shared\\_Main.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-13T23:38:27.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\Views\\LogIn\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC_HRIS\\Views\\LogIn\\Index.cshtml",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\Views\\LogIn\\Index.cshtml",
+              "RelativeToolTip": "MVC_HRIS\\Views\\LogIn\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T18:40:20.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "LogIn.cshtml",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\Views\\Shared\\LogIn.cshtml",
+              "RelativeDocumentMoniker": "MVC_HRIS\\Views\\Shared\\LogIn.cshtml",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\Views\\Shared\\LogIn.cshtml",
+              "RelativeToolTip": "MVC_HRIS\\Views\\Shared\\LogIn.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAALcAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T13:07:14.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ExecutionContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lerjun\\AppData\\Local\\Temp\\.vsdbgsrc\\14be1e9775a2c42f6dae1f20059ab3b3b510ae0e6140dbc702c923d90d3b6050\\ExecutionContext.cs",
+              "ToolTip": "C:\\Users\\Lerjun\\AppData\\Local\\Temp\\.vsdbgsrc\\14be1e9775a2c42f6dae1f20059ab3b3b510ae0e6140dbc702c923d90d3b6050\\ExecutionContext.cs",
+              "ViewState": "AQIAAHYAAAAAAAAAAAD4v4gAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T15:41:46.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Users\\Lerjun\\AppData\\Local\\Temp\\.vsdbgsrc\\aedc23bd0842b16881a6a11aa140b925281eaa1b7e2cd8c35c1f6b74068226fd\\Task.cs",
+              "ToolTip": "C:\\Users\\Lerjun\\AppData\\Local\\Temp\\.vsdbgsrc\\aedc23bd0842b16881a6a11aa140b925281eaa1b7e2cd8c35c1f6b74068226fd\\Task.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T20:02:44.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "TblModulesModel.cs",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\API_HRIS\\Models\\TblModulesModel.cs",
+              "RelativeDocumentMoniker": "API_HRIS\\Models\\TblModulesModel.cs",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\API_HRIS\\Models\\TblModulesModel.cs",
+              "RelativeToolTip": "API_HRIS\\Models\\TblModulesModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T21:28:03.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ModuleController.cs",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\API_HRIS\\Controllers\\ModuleController.cs",
+              "RelativeDocumentMoniker": "API_HRIS\\Controllers\\ModuleController.cs",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\API_HRIS\\Controllers\\ModuleController.cs",
+              "RelativeToolTip": "API_HRIS\\Controllers\\ModuleController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAADwvyAAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T21:58:58.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "TblModulesModel.cs",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\Models\\TblModulesModel.cs",
+              "RelativeDocumentMoniker": "MVC_HRIS\\Models\\TblModulesModel.cs",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\Models\\TblModulesModel.cs",
+              "RelativeToolTip": "MVC_HRIS\\Models\\TblModulesModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T22:00:28.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "TblUserTypeAccessModules.cs",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\API_HRIS\\Models\\TblUserTypeAccessModules.cs",
+              "RelativeDocumentMoniker": "API_HRIS\\Models\\TblUserTypeAccessModules.cs",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\API_HRIS\\Models\\TblUserTypeAccessModules.cs",
+              "RelativeToolTip": "API_HRIS\\Models\\TblUserTypeAccessModules.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T21:45:32.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "MVC_HRIS\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "MVC_HRIS\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T12:46:49.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 140,
+              "Title": "20240913213231_ModulesDtatype.cs",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\API_HRIS\\Migrations\\20240913213231_ModulesDtatype.cs",
+              "RelativeDocumentMoniker": "API_HRIS\\Migrations\\20240913213231_ModulesDtatype.cs",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\API_HRIS\\Migrations\\20240913213231_ModulesDtatype.cs",
+              "RelativeToolTip": "API_HRIS\\Migrations\\20240913213231_ModulesDtatype.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T21:32:31.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "20240913212941_Modules.cs",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\API_HRIS\\Migrations\\20240913212941_Modules.cs",
+              "RelativeDocumentMoniker": "API_HRIS\\Migrations\\20240913212941_Modules.cs",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\API_HRIS\\Migrations\\20240913212941_Modules.cs",
+              "RelativeToolTip": "API_HRIS\\Migrations\\20240913212941_Modules.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T21:29:42.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "TaskModal.cshtml",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\Views\\TimeLogs\\TaskModal.cshtml",
+              "RelativeDocumentMoniker": "MVC_HRIS\\Views\\TimeLogs\\TaskModal.cshtml",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\Views\\TimeLogs\\TaskModal.cshtml",
+              "RelativeToolTip": "MVC_HRIS\\Views\\TimeLogs\\TaskModal.cshtml",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAIwIAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T18:47:56.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "TimelogsVM.cs",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\API_HRIS\\ApplicationModel\\TimelogsVM.cs",
+              "RelativeDocumentMoniker": "API_HRIS\\ApplicationModel\\TimelogsVM.cs",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\API_HRIS\\ApplicationModel\\TimelogsVM.cs",
+              "RelativeToolTip": "API_HRIS\\ApplicationModel\\TimelogsVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T20:03:48.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "TimelogsVM.cs",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\Models\\TimelogsVM.cs",
+              "RelativeDocumentMoniker": "MVC_HRIS\\Models\\TimelogsVM.cs",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\Models\\TimelogsVM.cs",
+              "RelativeToolTip": "MVC_HRIS\\Models\\TimelogsVM.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA4wBgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T20:41:56.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "SettingsController.cs",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\Controllers\\SettingsController.cs",
+              "RelativeDocumentMoniker": "MVC_HRIS\\Controllers\\SettingsController.cs",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\Controllers\\SettingsController.cs",
+              "RelativeToolTip": "MVC_HRIS\\Controllers\\SettingsController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAADwvyMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T17:56:49.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "TblTaskModel.cs",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\Models\\TblTaskModel.cs",
+              "RelativeDocumentMoniker": "MVC_HRIS\\Models\\TblTaskModel.cs",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\Models\\TblTaskModel.cs",
+              "RelativeToolTip": "MVC_HRIS\\Models\\TblTaskModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T04:20:40.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "TblTimeLog.cs",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\Models\\TblTimeLog.cs",
+              "RelativeDocumentMoniker": "MVC_HRIS\\Models\\TblTimeLog.cs",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\Models\\TblTimeLog.cs",
+              "RelativeToolTip": "MVC_HRIS\\Models\\TblTimeLog.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwBAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T04:20:51.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "TblTaskModel.cs",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\API_HRIS\\Models\\TblTaskModel.cs",
+              "RelativeDocumentMoniker": "API_HRIS\\Models\\TblTaskModel.cs",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\API_HRIS\\Models\\TblTaskModel.cs",
+              "RelativeToolTip": "API_HRIS\\Models\\TblTaskModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T00:45:01.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 138,
+              "Title": "20240912013657_InitialSchoolDB1.cs",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\API_HRIS\\Migrations\\20240912013657_InitialSchoolDB1.cs",
+              "RelativeDocumentMoniker": "API_HRIS\\Migrations\\20240912013657_InitialSchoolDB1.cs",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\API_HRIS\\Migrations\\20240912013657_InitialSchoolDB1.cs",
+              "RelativeToolTip": "API_HRIS\\Migrations\\20240912013657_InitialSchoolDB1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T01:36:57.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "API_HRIS.csproj",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\API_HRIS\\API_HRIS.csproj",
+              "RelativeDocumentMoniker": "API_HRIS\\API_HRIS.csproj",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\API_HRIS\\API_HRIS.csproj",
+              "RelativeToolTip": "API_HRIS\\API_HRIS.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-12T00:49:17.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "ODC_HRISContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\API_HRIS\\Migrations\\ODC_HRISContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "API_HRIS\\Migrations\\ODC_HRISContextModelSnapshot.cs",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\API_HRIS\\Migrations\\ODC_HRISContextModelSnapshot.cs",
+              "RelativeToolTip": "API_HRIS\\Migrations\\ODC_HRISContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T00:51:34.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "20240912013148_InitialSchoolDB.cs",
+              "DocumentMoniker": "D:\\ODC-HRIS\\API_HRIS\\Migrations\\20240912013148_InitialSchoolDB.cs",
+              "RelativeDocumentMoniker": "..\\..\\ODC-HRIS\\API_HRIS\\Migrations\\20240912013148_InitialSchoolDB.cs",
+              "ToolTip": "D:\\ODC-HRIS\\API_HRIS\\Migrations\\20240912013148_InitialSchoolDB.cs",
+              "RelativeToolTip": "..\\..\\ODC-HRIS\\API_HRIS\\Migrations\\20240912013148_InitialSchoolDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T01:31:48.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "20240912013227_InitialSchoolDB.cs",
+              "DocumentMoniker": "D:\\ODC-HRIS\\API_HRIS\\Migrations\\20240912013227_InitialSchoolDB.cs",
+              "RelativeDocumentMoniker": "..\\..\\ODC-HRIS\\API_HRIS\\Migrations\\20240912013227_InitialSchoolDB.cs",
+              "ToolTip": "D:\\ODC-HRIS\\API_HRIS\\Migrations\\20240912013227_InitialSchoolDB.cs",
+              "RelativeToolTip": "..\\..\\ODC-HRIS\\API_HRIS\\Migrations\\20240912013227_InitialSchoolDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T01:32:27.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "20240912013332_InitialSchoolDB.cs",
+              "DocumentMoniker": "D:\\ODC-HRIS\\API_HRIS\\Migrations\\20240912013332_InitialSchoolDB.cs",
+              "RelativeDocumentMoniker": "..\\..\\ODC-HRIS\\API_HRIS\\Migrations\\20240912013332_InitialSchoolDB.cs",
+              "ToolTip": "D:\\ODC-HRIS\\API_HRIS\\Migrations\\20240912013332_InitialSchoolDB.cs",
+              "RelativeToolTip": "..\\..\\ODC-HRIS\\API_HRIS\\Migrations\\20240912013332_InitialSchoolDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T01:33:32.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 139,
+              "Title": "20240912013502_InitialSchoolDB.cs",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\API_HRIS\\Migrations\\20240912013502_InitialSchoolDB.cs",
+              "RelativeDocumentMoniker": "API_HRIS\\Migrations\\20240912013502_InitialSchoolDB.cs",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\API_HRIS\\Migrations\\20240912013502_InitialSchoolDB.cs",
+              "RelativeToolTip": "API_HRIS\\Migrations\\20240912013502_InitialSchoolDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T01:35:02.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "20240912013436_InitialSchoolDB.cs",
+              "DocumentMoniker": "D:\\ODC-HRIS\\API_HRIS\\Migrations\\20240912013436_InitialSchoolDB.cs",
+              "RelativeDocumentMoniker": "..\\..\\ODC-HRIS\\API_HRIS\\Migrations\\20240912013436_InitialSchoolDB.cs",
+              "ToolTip": "D:\\ODC-HRIS\\API_HRIS\\Migrations\\20240912013436_InitialSchoolDB.cs",
+              "RelativeToolTip": "..\\..\\ODC-HRIS\\API_HRIS\\Migrations\\20240912013436_InitialSchoolDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T01:34:36.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "variables.css",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\wwwroot\\css\\variables.css",
+              "RelativeDocumentMoniker": "MVC_HRIS\\wwwroot\\css\\variables.css",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\wwwroot\\css\\variables.css",
+              "RelativeToolTip": "MVC_HRIS\\wwwroot\\css\\variables.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-17T15:11:34.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "20240813054727_addpos.cs",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\API_HRIS\\Migrations\\20240813054727_addpos.cs",
+              "RelativeDocumentMoniker": "API_HRIS\\Migrations\\20240813054727_addpos.cs",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\API_HRIS\\Migrations\\20240813054727_addpos.cs",
+              "RelativeToolTip": "API_HRIS\\Migrations\\20240813054727_addpos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T05:47:27.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "MVC_HRIS\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "MVC_HRIS\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-17T15:12:02.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "modal_2.css",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\wwwroot\\css\\modal_2.css",
+              "RelativeDocumentMoniker": "MVC_HRIS\\wwwroot\\css\\modal_2.css",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\wwwroot\\css\\modal_2.css",
+              "RelativeToolTip": "MVC_HRIS\\wwwroot\\css\\modal_2.css",
+              "ViewState": "AQIAACgAAAAAAAAAAAAcwEoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-19T16:39:00.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "UserTypeController.cs",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\Controllers\\UserTypeController.cs",
+              "RelativeDocumentMoniker": "MVC_HRIS\\Controllers\\UserTypeController.cs",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\Controllers\\UserTypeController.cs",
+              "RelativeToolTip": "MVC_HRIS\\Controllers\\UserTypeController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAQwEMAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T18:28:51.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "variable.css",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\wwwroot\\css\\variable.css",
+              "RelativeDocumentMoniker": "MVC_HRIS\\wwwroot\\css\\variable.css",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\wwwroot\\css\\variable.css",
+              "RelativeToolTip": "MVC_HRIS\\wwwroot\\css\\variable.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-11T19:25:46.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "body.css",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\wwwroot\\css\\body.css",
+              "RelativeDocumentMoniker": "MVC_HRIS\\wwwroot\\css\\body.css",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\wwwroot\\css\\body.css",
+              "RelativeToolTip": "MVC_HRIS\\wwwroot\\css\\body.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-11T19:11:25.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "GetAllUserDetailsResult.cs",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\API_HRIS\\Models\\GetAllUserDetailsResult.cs",
+              "RelativeDocumentMoniker": "API_HRIS\\Models\\GetAllUserDetailsResult.cs",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\API_HRIS\\Models\\GetAllUserDetailsResult.cs",
+              "RelativeToolTip": "API_HRIS\\Models\\GetAllUserDetailsResult.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAwwB0AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T14:30:36.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "PayrollTypeController.cs",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\API_HRIS\\Controllers\\PayrollTypeController.cs",
+              "RelativeDocumentMoniker": "API_HRIS\\Controllers\\PayrollTypeController.cs",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\API_HRIS\\Controllers\\PayrollTypeController.cs",
+              "RelativeToolTip": "API_HRIS\\Controllers\\PayrollTypeController.cs",
+              "ViewState": "AQIAAJgAAAAAAAAAAAAewCAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T17:14:39.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "UserTypeController.cs",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\API_HRIS\\Controllers\\UserTypeController.cs",
+              "RelativeDocumentMoniker": "API_HRIS\\Controllers\\UserTypeController.cs",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\API_HRIS\\Controllers\\UserTypeController.cs",
+              "RelativeToolTip": "API_HRIS\\Controllers\\UserTypeController.cs",
+              "ViewState": "AQIAAKMAAAAAAAAAAAApwCAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T20:11:34.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "PositionController.cs",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\Controllers\\PositionController.cs",
+              "RelativeDocumentMoniker": "MVC_HRIS\\Controllers\\PositionController.cs",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\Controllers\\PositionController.cs",
+              "RelativeToolTip": "MVC_HRIS\\Controllers\\PositionController.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAcwFEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T05:55:35.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "dashboard.css",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\wwwroot\\css\\dashboard.css",
+              "RelativeDocumentMoniker": "MVC_HRIS\\wwwroot\\css\\dashboard.css",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\wwwroot\\css\\dashboard.css",
+              "RelativeToolTip": "MVC_HRIS\\wwwroot\\css\\dashboard.css",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAEAAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-17T15:15:13.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "TblUsersModel.cs",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\Models\\TblUsersModel.cs",
+              "RelativeDocumentMoniker": "MVC_HRIS\\Models\\TblUsersModel.cs",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\Models\\TblUsersModel.cs",
+              "RelativeToolTip": "MVC_HRIS\\Models\\TblUsersModel.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAA9wAcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T15:33:24.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "PositionController.cs",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\API_HRIS\\Controllers\\PositionController.cs",
+              "RelativeDocumentMoniker": "API_HRIS\\Controllers\\PositionController.cs",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\API_HRIS\\Controllers\\PositionController.cs",
+              "RelativeToolTip": "API_HRIS\\Controllers\\PositionController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAUwCsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T15:29:44.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\API_HRIS\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "API_HRIS\\Controllers\\DepartmentController.cs",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\API_HRIS\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "API_HRIS\\Controllers\\DepartmentController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T03:26:50.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Users\\Lerjun\\AppData\\Local\\Temp\\.vsdbgsrc\\be23523e2745f4009096bc5570f0f0e3421d48f739d7afc3e4a4237e1d98b0b7\\Task.cs",
+              "ToolTip": "C:\\Users\\Lerjun\\AppData\\Local\\Temp\\.vsdbgsrc\\be23523e2745f4009096bc5570f0f0e3421d48f739d7afc3e4a4237e1d98b0b7\\Task.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T07:19:21.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "FilterEmployee.cs",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\API_HRIS\\ApplicationModel\\FilterEmployee.cs",
+              "RelativeDocumentMoniker": "API_HRIS\\ApplicationModel\\FilterEmployee.cs",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\API_HRIS\\ApplicationModel\\FilterEmployee.cs",
+              "RelativeToolTip": "API_HRIS\\ApplicationModel\\FilterEmployee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T06:58:33.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "QueryValueService.cs",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\Manager\\QueryValueService.cs",
+              "RelativeDocumentMoniker": "MVC_HRIS\\Manager\\QueryValueService.cs",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\Manager\\QueryValueService.cs",
+              "RelativeToolTip": "MVC_HRIS\\Manager\\QueryValueService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAlAQAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T12:48:38.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\API_HRIS\\Program.cs",
+              "RelativeDocumentMoniker": "API_HRIS\\Program.cs",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\API_HRIS\\Program.cs",
+              "RelativeToolTip": "API_HRIS\\Program.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAA0AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T04:54:25.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "BasicAuthenticationHandler.cs",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\API_HRIS\\BasicAuthenticationHandler.cs",
+              "RelativeDocumentMoniker": "API_HRIS\\BasicAuthenticationHandler.cs",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\API_HRIS\\BasicAuthenticationHandler.cs",
+              "RelativeToolTip": "API_HRIS\\BasicAuthenticationHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T04:55:30.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "PayrollController.cs",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\Controllers\\PayrollController.cs",
+              "RelativeDocumentMoniker": "MVC_HRIS\\Controllers\\PayrollController.cs",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\Controllers\\PayrollController.cs",
+              "RelativeToolTip": "MVC_HRIS\\Controllers\\PayrollController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAADwvyQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T17:42:34.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "SalaryController.cs",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\Controllers\\SalaryController.cs",
+              "RelativeDocumentMoniker": "MVC_HRIS\\Controllers\\SalaryController.cs",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\Controllers\\SalaryController.cs",
+              "RelativeToolTip": "MVC_HRIS\\Controllers\\SalaryController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAADwvyQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T17:43:26.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "ApprovalController.cs",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\Controllers\\ApprovalController.cs",
+              "RelativeDocumentMoniker": "MVC_HRIS\\Controllers\\ApprovalController.cs",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\Controllers\\ApprovalController.cs",
+              "RelativeToolTip": "MVC_HRIS\\Controllers\\ApprovalController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAADwvyMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T17:59:22.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "SalaryTypeController.cs",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\API_HRIS\\Controllers\\SalaryTypeController.cs",
+              "RelativeDocumentMoniker": "API_HRIS\\Controllers\\SalaryTypeController.cs",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\API_HRIS\\Controllers\\SalaryTypeController.cs",
+              "RelativeToolTip": "API_HRIS\\Controllers\\SalaryTypeController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T16:56:26.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "TblPayrollType.cs",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\API_HRIS\\Models\\TblPayrollType.cs",
+              "RelativeDocumentMoniker": "API_HRIS\\Models\\TblPayrollType.cs",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\API_HRIS\\Models\\TblPayrollType.cs",
+              "RelativeToolTip": "API_HRIS\\Models\\TblPayrollType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T11:22:38.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "Monitor.cs",
+              "DocumentMoniker": "C:\\Users\\Lerjun\\AppData\\Local\\Temp\\.vsdbgsrc\\470d3084ccff01cbfffdb653cdede89467eb744ee0ba266252d0a21e12cbf24b\\Monitor.cs",
+              "ToolTip": "C:\\Users\\Lerjun\\AppData\\Local\\Temp\\.vsdbgsrc\\470d3084ccff01cbfffdb653cdede89467eb744ee0ba266252d0a21e12cbf24b\\Monitor.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAhwGAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T17:27:18.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "sidebar.css",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\wwwroot\\css\\sidebar.css",
+              "RelativeDocumentMoniker": "MVC_HRIS\\wwwroot\\css\\sidebar.css",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\wwwroot\\css\\sidebar.css",
+              "RelativeToolTip": "MVC_HRIS\\wwwroot\\css\\sidebar.css",
+              "ViewState": "AQIAAPYAAAAAAAAAAAApwEgBAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-17T15:07:04.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "table.css",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\wwwroot\\css\\table.css",
+              "RelativeDocumentMoniker": "MVC_HRIS\\wwwroot\\css\\table.css",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\wwwroot\\css\\table.css",
+              "RelativeToolTip": "MVC_HRIS\\wwwroot\\css\\table.css",
+              "ViewState": "AQIAABgAAAAAAAAAAAAgwEMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-17T17:22:21.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "login.css",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\wwwroot\\css\\login.css",
+              "RelativeDocumentMoniker": "MVC_HRIS\\wwwroot\\css\\login.css",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\wwwroot\\css\\login.css",
+              "RelativeToolTip": "MVC_HRIS\\wwwroot\\css\\login.css",
+              "ViewState": "AQIAAO8AAAAAAAAAAAArwAUBAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-17T17:26:30.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "MVC_HRIS\\appsettings.Development.json",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\appsettings.Development.json",
+              "RelativeToolTip": "MVC_HRIS\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-16T04:01:26.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\API_HRIS\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "API_HRIS\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\API_HRIS\\Properties\\launchSettings.json",
+              "RelativeToolTip": "API_HRIS\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-16T04:01:40.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "DepartmentPaginationModel.cs",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\API_HRIS\\ApplicationModel\\DepartmentPaginationModel.cs",
+              "RelativeDocumentMoniker": "API_HRIS\\ApplicationModel\\DepartmentPaginationModel.cs",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\API_HRIS\\ApplicationModel\\DepartmentPaginationModel.cs",
+              "RelativeToolTip": "API_HRIS\\ApplicationModel\\DepartmentPaginationModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T07:54:32.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "IdFilter.cs",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\Models\\IdFilter.cs",
+              "RelativeDocumentMoniker": "MVC_HRIS\\Models\\IdFilter.cs",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\Models\\IdFilter.cs",
+              "RelativeToolTip": "MVC_HRIS\\Models\\IdFilter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T14:31:02.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "IdFilter.cs",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\API_HRIS\\Models\\IdFilter.cs",
+              "RelativeDocumentMoniker": "API_HRIS\\Models\\IdFilter.cs",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\API_HRIS\\Models\\IdFilter.cs",
+              "RelativeToolTip": "API_HRIS\\Models\\IdFilter.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAQwAoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T14:31:47.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "FilterUserType.cs",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\API_HRIS\\ApplicationModel\\FilterUserType.cs",
+              "RelativeDocumentMoniker": "API_HRIS\\ApplicationModel\\FilterUserType.cs",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\API_HRIS\\ApplicationModel\\FilterUserType.cs",
+              "RelativeToolTip": "API_HRIS\\ApplicationModel\\FilterUserType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T18:27:14.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "TblAddressInfo.cs",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\API_HRIS\\Models\\TblAddressInfo.cs",
+              "RelativeDocumentMoniker": "API_HRIS\\Models\\TblAddressInfo.cs",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\API_HRIS\\Models\\TblAddressInfo.cs",
+              "RelativeToolTip": "API_HRIS\\Models\\TblAddressInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T12:46:11.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "IODC_HRISContextProcedures.cs",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\API_HRIS\\Models\\IODC_HRISContextProcedures.cs",
+              "RelativeDocumentMoniker": "API_HRIS\\Models\\IODC_HRISContextProcedures.cs",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\API_HRIS\\Models\\IODC_HRISContextProcedures.cs",
+              "RelativeToolTip": "API_HRIS\\Models\\IODC_HRISContextProcedures.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T14:30:53.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "AuditTrailController.cs",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\API_HRIS\\Controllers\\AuditTrailController.cs",
+              "RelativeDocumentMoniker": "API_HRIS\\Controllers\\AuditTrailController.cs",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\API_HRIS\\Controllers\\AuditTrailController.cs",
+              "RelativeToolTip": "API_HRIS\\Controllers\\AuditTrailController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAIwBwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T12:13:54.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "DbContextExtensions.cs",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\API_HRIS\\Models\\DbContextExtensions.cs",
+              "RelativeDocumentMoniker": "API_HRIS\\Models\\DbContextExtensions.cs",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\API_HRIS\\Models\\DbContextExtensions.cs",
+              "RelativeToolTip": "API_HRIS\\Models\\DbContextExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T15:31:55.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 108,
+              "Title": "UserTypePaginationModel.cs",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\API_HRIS\\ApplicationModel\\UserTypePaginationModel.cs",
+              "RelativeDocumentMoniker": "API_HRIS\\ApplicationModel\\UserTypePaginationModel.cs",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\API_HRIS\\ApplicationModel\\UserTypePaginationModel.cs",
+              "RelativeToolTip": "API_HRIS\\ApplicationModel\\UserTypePaginationModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T18:27:42.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 109,
+              "Title": "UserTypePaginationModel.cs",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\Models\\UserTypePaginationModel.cs",
+              "RelativeDocumentMoniker": "MVC_HRIS\\Models\\UserTypePaginationModel.cs",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\Models\\UserTypePaginationModel.cs",
+              "RelativeToolTip": "MVC_HRIS\\Models\\UserTypePaginationModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T18:30:05.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "ManualResetEventSlim.cs",
+              "DocumentMoniker": "C:\\Users\\Lerjun\\AppData\\Local\\Temp\\.vsdbgsrc\\c5a97e4e2bf154308543b519e39df69d65a6673c44714367671dc8a2d4ce1213\\ManualResetEventSlim.cs",
+              "ToolTip": "C:\\Users\\Lerjun\\AppData\\Local\\Temp\\.vsdbgsrc\\c5a97e4e2bf154308543b519e39df69d65a6673c44714367671dc8a2d4ce1213\\ManualResetEventSlim.cs",
+              "ViewState": "AQIAAOYAAAAAAAAAAAApwPQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T08:43:48.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 110,
+              "Title": "FilterDepartment.cs",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\API_HRIS\\ApplicationModel\\FilterDepartment.cs",
+              "RelativeDocumentMoniker": "API_HRIS\\ApplicationModel\\FilterDepartment.cs",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\API_HRIS\\ApplicationModel\\FilterDepartment.cs",
+              "RelativeToolTip": "API_HRIS\\ApplicationModel\\FilterDepartment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T07:53:54.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 111,
+              "Title": "PositionPaginationModel.cs",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\Models\\PositionPaginationModel.cs",
+              "RelativeDocumentMoniker": "MVC_HRIS\\Models\\PositionPaginationModel.cs",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\Models\\PositionPaginationModel.cs",
+              "RelativeToolTip": "MVC_HRIS\\Models\\PositionPaginationModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T07:09:40.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 112,
+              "Title": "FilterPosition.cs",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\API_HRIS\\ApplicationModel\\FilterPosition.cs",
+              "RelativeDocumentMoniker": "API_HRIS\\ApplicationModel\\FilterPosition.cs",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\API_HRIS\\ApplicationModel\\FilterPosition.cs",
+              "RelativeToolTip": "API_HRIS\\ApplicationModel\\FilterPosition.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T06:59:59.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 113,
+              "Title": "EmployeePaginationModel.cs",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\API_HRIS\\ApplicationModel\\EmployeePaginationModel.cs",
+              "RelativeDocumentMoniker": "API_HRIS\\ApplicationModel\\EmployeePaginationModel.cs",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\API_HRIS\\ApplicationModel\\EmployeePaginationModel.cs",
+              "RelativeToolTip": "API_HRIS\\ApplicationModel\\EmployeePaginationModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T06:48:38.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "TaskAwaiter.cs",
+              "DocumentMoniker": "C:\\Users\\Lerjun\\AppData\\Local\\Temp\\.vsdbgsrc\\30a718626809fa918d54d5c4e66b6c037dbc6037bbf57453e35d5b75a4c80102\\TaskAwaiter.cs",
+              "ToolTip": "C:\\Users\\Lerjun\\AppData\\Local\\Temp\\.vsdbgsrc\\30a718626809fa918d54d5c4e66b6c037dbc6037bbf57453e35d5b75a4c80102\\TaskAwaiter.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T15:25:00.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 114,
+              "Title": "PositionPaginationModel.cs",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\API_HRIS\\ApplicationModel\\PositionPaginationModel.cs",
+              "RelativeDocumentMoniker": "API_HRIS\\ApplicationModel\\PositionPaginationModel.cs",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\API_HRIS\\ApplicationModel\\PositionPaginationModel.cs",
+              "RelativeToolTip": "API_HRIS\\ApplicationModel\\PositionPaginationModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T06:53:15.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 115,
+              "Title": "PaginationUserModel.cs",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\Models\\PaginationUserModel.cs",
+              "RelativeDocumentMoniker": "MVC_HRIS\\Models\\PaginationUserModel.cs",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\Models\\PaginationUserModel.cs",
+              "RelativeToolTip": "MVC_HRIS\\Models\\PaginationUserModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T17:31:22.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 116,
+              "Title": "TblAudittrail.cs",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\API_HRIS\\Models\\TblAudittrail.cs",
+              "RelativeDocumentMoniker": "API_HRIS\\Models\\TblAudittrail.cs",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\API_HRIS\\Models\\TblAudittrail.cs",
+              "RelativeToolTip": "API_HRIS\\Models\\TblAudittrail.cs",
+              "ViewState": "AQIAAAIAAACAPDMzMzPrvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T06:10:02.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 117,
+              "Title": "DeletionModel.cs",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\API_HRIS\\ApplicationModel\\DeletionModel.cs",
+              "RelativeDocumentMoniker": "API_HRIS\\ApplicationModel\\DeletionModel.cs",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\API_HRIS\\ApplicationModel\\DeletionModel.cs",
+              "RelativeToolTip": "API_HRIS\\ApplicationModel\\DeletionModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T12:30:06.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 118,
+              "Title": "RestorationModel.cs",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\API_HRIS\\ApplicationModel\\RestorationModel.cs",
+              "RelativeDocumentMoniker": "API_HRIS\\ApplicationModel\\RestorationModel.cs",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\API_HRIS\\ApplicationModel\\RestorationModel.cs",
+              "RelativeToolTip": "API_HRIS\\ApplicationModel\\RestorationModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T12:30:31.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 119,
+              "Title": "AppSettings.cs",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\Models\\AppSettings.cs",
+              "RelativeDocumentMoniker": "MVC_HRIS\\Models\\AppSettings.cs",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\Models\\AppSettings.cs",
+              "RelativeToolTip": "MVC_HRIS\\Models\\AppSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T12:51:32.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 120,
+              "Title": "ApiGlobalModel.cs",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\Services\\ApiGlobalModel.cs",
+              "RelativeDocumentMoniker": "MVC_HRIS\\Services\\ApiGlobalModel.cs",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\Services\\ApiGlobalModel.cs",
+              "RelativeToolTip": "MVC_HRIS\\Services\\ApiGlobalModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T20:20:08.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 121,
+              "Title": "ODC_HRISContextProcedures.cs",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\API_HRIS\\Models\\ODC_HRISContextProcedures.cs",
+              "RelativeDocumentMoniker": "API_HRIS\\Models\\ODC_HRISContextProcedures.cs",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\API_HRIS\\Models\\ODC_HRISContextProcedures.cs",
+              "RelativeToolTip": "API_HRIS\\Models\\ODC_HRISContextProcedures.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAmwDcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T14:30:32.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 122,
+              "Title": "loginCredentials.cs",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\API_HRIS\\StatusModel\\loginCredentials.cs",
+              "RelativeDocumentMoniker": "API_HRIS\\StatusModel\\loginCredentials.cs",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\API_HRIS\\StatusModel\\loginCredentials.cs",
+              "RelativeToolTip": "API_HRIS\\StatusModel\\loginCredentials.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T11:21:49.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 123,
+              "Title": "StatusReturns.cs",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\API_HRIS\\StatusModel\\StatusReturns.cs",
+              "RelativeDocumentMoniker": "API_HRIS\\StatusModel\\StatusReturns.cs",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\API_HRIS\\StatusModel\\StatusReturns.cs",
+              "RelativeToolTip": "API_HRIS\\StatusModel\\StatusReturns.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T11:20:50.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 124,
+              "Title": "TblUsersModel_List.cs",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\API_HRIS\\StatusModel\\TblUsersModel_List.cs",
+              "RelativeDocumentMoniker": "API_HRIS\\StatusModel\\TblUsersModel_List.cs",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\API_HRIS\\StatusModel\\TblUsersModel_List.cs",
+              "RelativeToolTip": "API_HRIS\\StatusModel\\TblUsersModel_List.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAA7wDwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T11:26:05.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 125,
+              "Title": "TimelogsApproval.cshtml",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\Views\\Approval\\TimelogsApproval.cshtml",
+              "RelativeDocumentMoniker": "MVC_HRIS\\Views\\Approval\\TimelogsApproval.cshtml",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\Views\\Approval\\TimelogsApproval.cshtml",
+              "RelativeToolTip": "MVC_HRIS\\Views\\Approval\\TimelogsApproval.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T18:01:47.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 126,
+              "Title": "RegistrationApproval.cshtml",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\Views\\Approval\\RegistrationApproval.cshtml",
+              "RelativeDocumentMoniker": "MVC_HRIS\\Views\\Approval\\RegistrationApproval.cshtml",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\Views\\Approval\\RegistrationApproval.cshtml",
+              "RelativeToolTip": "MVC_HRIS\\Views\\Approval\\RegistrationApproval.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T18:03:01.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 127,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\Views\\Settings\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC_HRIS\\Views\\Settings\\Index.cshtml",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\Views\\Settings\\Index.cshtml",
+              "RelativeToolTip": "MVC_HRIS\\Views\\Settings\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T17:57:00.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 128,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\Views\\Approval\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC_HRIS\\Views\\Approval\\Index.cshtml",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\Views\\Approval\\Index.cshtml",
+              "RelativeToolTip": "MVC_HRIS\\Views\\Approval\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T18:00:47.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 129,
+              "Title": "TaskApproval.cshtml",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\Views\\Approval\\TaskApproval.cshtml",
+              "RelativeDocumentMoniker": "MVC_HRIS\\Views\\Approval\\TaskApproval.cshtml",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\Views\\Approval\\TaskApproval.cshtml",
+              "RelativeToolTip": "MVC_HRIS\\Views\\Approval\\TaskApproval.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T18:02:31.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 130,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\Views\\Payroll\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC_HRIS\\Views\\Payroll\\Index.cshtml",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\Views\\Payroll\\Index.cshtml",
+              "RelativeToolTip": "MVC_HRIS\\Views\\Payroll\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T17:42:43.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 131,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\Views\\Salary\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC_HRIS\\Views\\Salary\\Index.cshtml",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\Views\\Salary\\Index.cshtml",
+              "RelativeToolTip": "MVC_HRIS\\Views\\Salary\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T17:43:36.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 132,
+              "Title": "MVC_HRIS.csproj",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\MVC_HRIS.csproj",
+              "RelativeDocumentMoniker": "MVC_HRIS\\MVC_HRIS.csproj",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\MVC_HRIS.csproj",
+              "RelativeToolTip": "MVC_HRIS\\MVC_HRIS.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-02T12:52:39.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 133,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MVC_HRIS\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\MVC_HRIS\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MVC_HRIS\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T15:03:44.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 134,
+              "Title": "API_HRIS.http",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\API_HRIS\\API_HRIS.http",
+              "RelativeDocumentMoniker": "API_HRIS\\API_HRIS.http",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\API_HRIS\\API_HRIS.http",
+              "RelativeToolTip": "API_HRIS\\API_HRIS.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-07-02T05:31:48.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 135,
+              "Title": "JwtAuthenticationManager.cs",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\API_HRIS\\Manager\\JwtAuthenticationManager.cs",
+              "RelativeDocumentMoniker": "API_HRIS\\Manager\\JwtAuthenticationManager.cs",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\API_HRIS\\Manager\\JwtAuthenticationManager.cs",
+              "RelativeToolTip": "API_HRIS\\Manager\\JwtAuthenticationManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T04:56:53.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 136,
+              "Title": "Cryptography.cs",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\API_HRIS\\Manager\\Cryptography.cs",
+              "RelativeDocumentMoniker": "API_HRIS\\Manager\\Cryptography.cs",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\API_HRIS\\Manager\\Cryptography.cs",
+              "RelativeToolTip": "API_HRIS\\Manager\\Cryptography.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T04:56:27.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 137,
+              "Title": "BasicAuthenticationOptions.cs",
+              "DocumentMoniker": "D:\\Projects\\ODC-HRIS\\API_HRIS\\BasicAuthenticationOptions.cs",
+              "RelativeDocumentMoniker": "API_HRIS\\BasicAuthenticationOptions.cs",
+              "ToolTip": "D:\\Projects\\ODC-HRIS\\API_HRIS\\BasicAuthenticationOptions.cs",
+              "RelativeToolTip": "API_HRIS\\BasicAuthenticationOptions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T04:55:41.733Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

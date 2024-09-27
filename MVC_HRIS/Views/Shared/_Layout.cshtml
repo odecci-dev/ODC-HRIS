@@ -1,0 +1,191 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    @inject IHttpContextAccessor Accessor;
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    @* <link rel="icon" type="image/x-icon" href="~/image/favicon.ico" /> *@
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    @* <link rel="stylesheet" href="~/css/dashboard.css" asp-append-version="true" /> *@
+    <link rel="stylesheet" href="~/css/variables.css" asp-append-version="true" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <!-- DataTables -->
+    <link rel="stylesheet" href="~/plugins/datatables-bs4/css/dataTables.bootstrap4.min.css">
+    <link rel="stylesheet" href="~/plugins/datatables-responsive/css/responsive.bootstrap4.min.css">
+    <link rel="stylesheet" href="~/plugins/datatables-buttons/css/buttons.bootstrap4.min.css">
+    <!-- Theme style -->
+    <link rel="stylesheet" href="~/dist/css/adminlte.min.css">
+    <link href="~/css/iziToast.min.css" rel="stylesheet" />
+
+</head>
+
+<body>
+
+    <div class="overlay" id="loadingOverlay" style="display: none;">
+        <div class="loader"></div>
+    </div>
+    <div class="modal fade" id="defaultmodal" data-backdrop="static" data-bs-focus="false">
+        <div class="modal-dialog">
+            <div class="modal-content mat-modal-content">
+                <div class="modal-header p-3">
+                    <span class="modal-title text-secondary font-weight-bold p-0 m-0"></span>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="overlay text-center bg-white">
+                    <label class="loader-label">
+                        <progress></progress>
+                    </label>
+                </div>
+                <div class="modal-body  mat-input-container">
+                    <div class="mt-5 mb-5"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    @* @Html.Partial("_TopBar") *@
+    @Html.Partial("_SideBar")
+    <main>
+        @* @Html.Partial("_Main") *@
+        @RenderBody()
+    </main>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdn.datatables.net/1.13.4/js/jquery.dataTables.min.js"></script>
+
+
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.blockUI/2.70/jquery.blockUI.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.0.min.js"
+            integrity="sha256-2Pmvv0kuTBOenSvLm6bvfBSSHrUJ+3A7x6P5Ebd07/g="
+            crossorigin="anonymous"></script>
+    @* <script src="~/js/site.js" asp-append-version="true"></script> *@
+    <!-- jQuery -->
+    <script src="~/plugins/jquery/jquery.min.js"></script>
+    <!-- Bootstrap 4 -->
+    <script src="~/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <!-- DataTables  & Plugins -->
+    <script src="~/plugins/datatables/jquery.dataTables.min.js"></script>
+    <script src="~/plugins/datatables-bs4/js/dataTables.bootstrap4.min.js"></script>
+    <script src="~/plugins/datatables-responsive/js/dataTables.responsive.min.js"></script>
+    <script src="~/plugins/datatables-responsive/js/responsive.bootstrap4.min.js"></script>
+    <script src="~/plugins/datatables-buttons/js/dataTables.buttons.min.js"></script>
+    <script src="~/plugins/datatables-buttons/js/buttons.bootstrap4.min.js"></script>
+    <script src="/js/app.js"></script>
+    <script src="~/js/iziToast.min.js"></script>
+    <div class="footer"></div>
+    <script>
+      var usertype = @Accessor.HttpContext.Session.GetString("UserType");
+        if (usertype != "2") {
+            const htmlContent = `
+                                  
+                                    <li>
+                                        <div>
+                                            <a href="../../TimeLogs/Index" style="display: flex; align-items: center; gap: 13px;" class="nav-item">
+                                                <i class="fa-solid fa-clock" style="font-size: 20px;"></i>
+                                                <span style="color: white;">TimeSheet</span>
+                                            </a>
+                                        </div>
+                                    </li>
+                                  `;
+
+            // Insert the HTML content into the div with class content-item
+            $(".content-item").html(htmlContent);
+        }
+        else {
+            const htmlContent = `
+                                    <li>
+                                        <div>
+                                            <a href="../../Dashboard/Index" style="display: flex; align-items: center; gap: 8px;" class="nav-item">
+                                                <i class="fa-solid fa-chart-column" style="font-size: 20px;margin-right:5px"></i>
+                                                <span style="color: white;">Dashboard</span>
+                                            </a>
+                                        </div>
+                                    </li>
+                                    <li class="maintenance">
+                                        <div>
+                                            <a href="#" style="display: flex; align-items: center; gap: 8px;" class="nav-item">
+                                                <i class="fa-sharp fa-solid fa-screwdriver-wrench" style="font-size: 20px;margin-right:5px"></i>
+                                                <span style="color: white;">Maintenance</span>
+                                            </a>
+                                        </div>
+                                    </li>
+                                    <ul class="sub-nav" id="subnav">
+                                        <li><a href="../../Employee/Index" style="display: flex; align-items: center; gap: 13px;"><i class="fa-solid fa-users"></i> Employee</a></li>
+                                        <li><a href="../../Position/Index" style="display: flex; align-items: center; gap: 15px;"><i class="fa-solid fa-user"></i> Position</a></li>
+                                        <li><a href="../../Department/Index" style="display: flex; align-items: center; gap: 15px;"><i class="fa-solid fa-sitemap"></i> Department</a></li>
+                                        <li><a href="../../Payroll/Index" style="display: flex; align-items: center; gap: 15px;"><i class="fa-solid fa-hand-holding-dollar"></i> Payroll Type</a></li>
+                                        <li><a href="../../Salary/Index" style="display: flex; align-items: center; gap: 15px;"><i class="fa-solid fa-money-bill-wave"></i> Salary Type</a></li>
+                                    </ul>
+                                    <li>
+                                        <div>
+                                            <a href="../../TimeLogs/Index" style="display: flex; align-items: center; gap: 13px;" class="nav-item">
+                                                <i class="fa-solid fa-clock" style="font-size: 20px;"></i>
+                                                <span style="color: white;">TimeSheet</span>
+                                            </a>
+                                        </div>
+                                    </li>
+                                    <li class="approval">
+                                        <div>
+                                            <a href="#" style="display: flex; align-items: center; gap: 13px;" class="nav-item">
+                                                <i class="fa-sharp fa-solid fa-check-to-slot" style="font-size: 20px;"></i>
+                                                <span style="color: white;">Approvals</span>
+                                            </a>
+                                        </div>
+                                    </li>
+                                    <ul class="sub-nav-approval"></ul>
+                                    `;
+
+            // Insert the HTML content into the div with class content-item
+            $(".content-item").html(htmlContent);
+        
+        }
+        const listItems = document.querySelectorAll("#mysidebar li");
+
+        listItems.forEach((item, index) => {
+            item.addEventListener("click", function () {
+                // Remove the 'selected' class from all items
+                listItems.forEach(li => li.classList.remove("selected"));
+
+                // Add the 'selected' class to the clicked item
+                this.classList.add("selected");
+
+                // Get the index of the clicked item
+                console.log("Selected index:", index);
+
+                // Store the index in local storage (optional)
+                localStorage.setItem('selectedIndex', index);
+
+                // Example: Log the icon element inside the clicked <li>
+                var icon = this.querySelector("i");
+                console.log(icon);
+            });
+        });
+        window.addEventListener('DOMContentLoaded', (event) => {
+            // Predefined text to match on load
+            const defaultText = 'Services';
+
+            // Find and highlight the item based on inner text
+            document.querySelectorAll('#mysidebar li').forEach((el, index) => {
+                // Compare the index with the stored value in localStorage
+                if (index === parseInt(localStorage.getItem('selectedIndex'))) {
+                    el.classList.add('selected');
+                }
+            });
+        });
+        $(".sub-nav a").on("click", function () {
+            // Remove the highlight class from all sub-navs first
+            $(".sub-nav").removeClass("sub-nav-highlight");
+
+            // Add highlight class to the sub-nav of the clicked item
+            $(this).closest(".sub-nav").addClass("sub-nav-highlight");
+        });
+    </script>
+    @RenderSection("Scripts", required: false)
+</body>
+</html>
